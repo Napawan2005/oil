@@ -1,0 +1,2 @@
+class OillDevelopment < ApplicationRecord
+end
